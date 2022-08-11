@@ -6,9 +6,9 @@ Do you want to make a video call to your friend in Cambodia? In this case, you c
 I don't care how you will host my server on Flask, but I can recommend ngrok.
 Here is the link: https://ngrok.com
 To use ngrok you need to download flask_ngrok 
-'''
+```
 pip install flask_ngrok
-'''
+```
 Then uncomment lines 6 and 36 in flask_server.py and comment out line 35
 ____
 Also you can use any other way to host
